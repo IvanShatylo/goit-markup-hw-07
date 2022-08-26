@@ -6,6 +6,9 @@
 @import './base/section';
 @import './base/container';
 
+@import './components/backdrop';
+@import './components/modal-window';
+@import './components/modal-form' ;
 
 @import './layout/header';
 @import './layout/main_section';
@@ -15,14 +18,3 @@
 @import './layout/regular-customers';
 @import './layout/footer';
 @import './layout/portfolio';
-
-@import './components/backdrop';
-@import './components/modal-window';
-@import './components/modal-form' ;
-
-
-
-
-
-
-
